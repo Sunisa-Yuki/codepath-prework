@@ -4,7 +4,7 @@ Submitted by: **Sunisa Saeli**
 
 **Sunisa Prework** is an app that change the color of the background when the button is clicked. 
 
-Time spent: **2.5** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
@@ -18,6 +18,8 @@ file:///private/var/folders/j3/fcm5lwl97232mcc0j6k8vwnr0000gn/T/72a9335a8c6bc606
 ](https://imgur.com/Jp3bzoE)
 
 https://imgur.com/a/RZgY3xe.gif
+
+https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXd6Yzg4MHM1bzQxdmJxMmoxamh6dTd6NjA5NHg4dXJsZjFhanNlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AF7qJ59A6J1ME64GkU/giphy.gif
 
 ## App Brainstorming (Step 4)
 
@@ -53,7 +55,7 @@ Secondly, I would improve on the current features that are provided by adding th
 ## Notes
 
 Describe any challenges encountered while building the app.
-I am new with the Xcode and Github, so this take more times than what I expected for exploring and fixing the error of the button connection. 
+I am new with the Xcode and Github, so this take more times than what I expected for exploring and fixing the error of the button connection. Additionally, this is my first time recoding the screen on my laptop and export as a GIF where the tool itself didn't provide the convereter to URl, so I have learnt it through this project.
 
 ## License
 
