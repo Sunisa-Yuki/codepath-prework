@@ -14,10 +14,6 @@ The following **required** functionality is completed:
 - [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-file:///private/var/folders/j3/fcm5lwl97232mcc0j6k8vwnr0000gn/T/72a9335a8c6bc606851ef8bd71e80e40/Kapture%202025-01-23%20at%2001.35.05.gif
-](https://imgur.com/Jp3bzoE)
-
-https://imgur.com/a/RZgY3xe.gif
 
 https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXd6Yzg4MHM1bzQxdmJxMmoxamh6dTd6NjA5NHg4dXJsZjFhanNlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AF7qJ59A6J1ME64GkU/giphy.gif
 
